@@ -1,0 +1,32 @@
+Relation Extraction
+--------------------------------------------------------------
+
+1. Relation_Extraction.py: takes input 'test_corpus.txt' which contains the test corpus and produces trustworthy and untrustworthy tuples.
+2. Relation_Extraction_Noun_Phrases.py: takes input 'test_corpus.txt' which contains the test corpus and produces trustworthy and untrustworthy tuples with noun phrases.
+
+Run using 'jython Relation_Extraction_Noun_Phrases_Classifier.py englishPCFG.ser.gz > trusted_tuples.txt'
+
+--------------------------------------------------------------
+Build Classifier
+--------------------------------------------------------------
+
+1. Build_Classifier.py: Builds classifier using the above tuples.
+
+Run using 'python Build_Classifier.py' 
+
+
+--------------------------------------------------------------
+Single Pass Extractor
+--------------------------------------------------------------
+
+1. Single_Pass_Extractor.py: Classifies tuples from an input sentence (specify inside the file) as trustworthy or untrustworthy using classifier from the above step.
+
+Run using 'python Single_Pass_Extractor.py'
+
+--------------------------------------------------------------
+Query Answering
+--------------------------------------------------------------
+
+1. Query_answering_single.py: Using trustworthy tuples fom 'Relation Extraction', groups similar tuples together and answers queries
+
+Run using 'python Query_answering_single.py _ rel _'

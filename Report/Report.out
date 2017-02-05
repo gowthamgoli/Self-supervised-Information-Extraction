@@ -1,0 +1,11 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Approach}{}% 2
+\BOOKMARK [2][-]{subsection.2.1}{Relation Extraction}{section.2}% 3
+\BOOKMARK [2][-]{subsection.2.2}{Building a classifier}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.3}{Single Pass extractor}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.4}{Query Module}{section.2}% 6
+\BOOKMARK [3][-]{subsubsection.2.4.1}{\137 q2 \137}{subsection.2.4}% 7
+\BOOKMARK [3][-]{subsubsection.2.4.2}{q1 q2 \137 or q1 \137 q3 or \137 q2 q3}{subsection.2.4}% 8
+\BOOKMARK [1][-]{section.3}{Results}{}% 9
+\BOOKMARK [1][-]{section.4}{Future Work}{}% 10
+\BOOKMARK [1][-]{section.5}{Acknowledgements}{}% 11

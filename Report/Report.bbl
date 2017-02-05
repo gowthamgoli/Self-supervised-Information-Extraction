@@ -1,0 +1,32 @@
+\begin{thebibliography}{1}
+
+\bibitem{Dijkstra}
+Dijkstra's algorithm to find shortest paths.
+\newblock \url{https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm}.
+
+\bibitem{Wordnet}
+How to use nltk's wordent.
+\newblock \url{http://www.nltk.org/howto/wordnet.html}.
+
+\bibitem{Tree}
+Nltk parse trees.
+\newblock \url{http://www.nltk.org/book/ch08.html/}.
+
+\bibitem{Banko}
+Michele Banko, Michael~J. Cafarella, Stephen Soderland, Matt Broadhead, and
+  Oren Etzioni.
+\newblock Open information extraction from the web.
+\newblock In {\em Proceedings of the 20th International Joint Conference on
+  Artifical Intelligence}, IJCAI'07, pages 2670--2676, San Francisco, CA, USA,
+  2007. Morgan Kaufmann Publishers Inc.
+
+\bibitem{jython}
+Viktor Pekar.
+\newblock Jython libraries for stanford parser.
+\newblock \url{https://github.com/vpekar/stanford-parser-in-jython/}.
+
+\bibitem{Tang_informationextraction}
+Jie Tang, Mingcai Hong, Duo Zhang, Bangyong Liang, and Juanzi Li.
+\newblock Information extraction: Methodologies and applications.
+
+\end{thebibliography}
